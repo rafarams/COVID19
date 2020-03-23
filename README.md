@@ -7,4 +7,3 @@ This is the first file in this repo.
 clear text to save world
 
 
-text
